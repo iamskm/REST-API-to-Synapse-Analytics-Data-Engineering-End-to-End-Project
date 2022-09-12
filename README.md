@@ -7,6 +7,8 @@ In this Project of data engineering, i have used a free fake api data to be copi
 
 - copying transformed data to synapse analytics using azure data factory polybase technology in which i used a storage event trigger
 
+The estimated time to complete this project is: 55 minutes
+
 The following Azure services has been used in this project.
 
 1. Azure Data Lake
@@ -15,3 +17,4 @@ The following Azure services has been used in this project.
 4. azure databricks
 
 The Following is google drive video link of whole project implementation:
+https://drive.google.com/file/d/1h8lALZUHrmLHfXReUf2tIcx73mHyNSN8/view?usp=sharing
